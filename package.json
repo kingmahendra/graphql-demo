@@ -1,0 +1,14 @@
+{
+  "name": "graphql-demo",
+  "version": "1.0.0",
+  "description": "learnig graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahendra kumar",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^0.12.3"
+  }
+}
